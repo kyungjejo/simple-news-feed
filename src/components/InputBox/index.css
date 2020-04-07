@@ -1,0 +1,12 @@
+#input-box-container {
+    margin: 10px auto;
+    width: 400px;
+}
+
+#input-box {
+    text-align: left;
+}
+
+input, textarea {
+    width: 100%;
+}

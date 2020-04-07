@@ -1,0 +1,9 @@
+.post-container {
+    width: 400px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.post {
+    text-align: left;
+}
